@@ -1,0 +1,21 @@
+{
+    "name": "b-3dev/nanogram",
+    "description": "A powerful and simple library to interact with the Telegram API",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "8.0.x-dev",
+        "monolog/monolog": "3.x-dev"
+    },
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "B3dev\\Nanogram\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hossein"
+        }
+    ],
+    "minimum-stability": "dev"
+}
