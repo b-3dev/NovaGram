@@ -9,12 +9,13 @@
     "license": "BSD-3-Clause",
     "autoload": {
         "psr-4": {
-            "B3dev\\Nanogram\\": "src/"
+            "NanoGram\\NanoGram\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "hossein"
+            "name": "hossein",
+            "email": "4.ho3ein@gmail.com"
         }
     ],
     "minimum-stability": "dev"
